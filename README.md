@@ -12,3 +12,8 @@
 ## 正则表达式
 
 - [1. 精通正则表达式](http://cdn.lxqnsys.com/%E7%B2%BE%E9%80%9A%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.pdf)
+
+
+## 前端开发相关
+
+[1. Javascript高级程序设计红宝书]()
